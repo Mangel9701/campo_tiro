@@ -1,0 +1,2074 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+Stats thread started at 0.470573
+ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+Loading text-based GConfig....
+Mounting plugin MegascansPlugin
+Mounting plugin MeshPainting
+Mounting plugin XGEController
+Mounting plugin Paper2D
+Mounting plugin AISupport
+Mounting plugin EnvironmentQueryEditor
+Mounting plugin GameplayCameras
+Mounting plugin CameraShakePreviewer
+Mounting plugin LiveLink
+Mounting plugin LightPropagationVolume
+Mounting plugin OodleNetwork
+Mounting plugin OodleData
+Mounting plugin CLionSourceCodeAccess
+Mounting plugin AnimationSharing
+Mounting plugin AssetManagerEditor
+Mounting plugin CodeLiteSourceCodeAccess
+Mounting plugin KDevelopSourceCodeAccess
+Mounting plugin GitSourceControl
+Mounting plugin CryptoKeys
+Mounting plugin NullSourceCodeAccess
+Mounting plugin CurveEditorTools
+Mounting plugin EditorScriptingUtilities
+Mounting plugin DataValidation
+Mounting plugin PerforceSourceControl
+Mounting plugin PixWinPlugin
+Mounting plugin FacialAnimation
+Mounting plugin PluginUtils
+Mounting plugin PlasticSourceControl
+Mounting plugin PropertyAccessNode
+Mounting plugin GameplayTagsEditor
+Mounting plugin GeometryMode
+Mounting plugin MacGraphicsSwitching
+Mounting plugin RiderSourceCodeAccess
+Mounting plugin TextureFormatOodle
+Mounting plugin MobileLauncherProfileWizard
+Mounting plugin PluginBrowser
+Mounting plugin SubversionSourceControl
+Mounting plugin SpeedTreeImporter
+Mounting plugin UObjectPlugin
+Mounting plugin AutomationUtils
+Mounting plugin AlembicImporter
+Mounting plugin BackChannel
+Mounting plugin ChaosClothEditor
+Mounting plugin ChaosCloth
+Mounting plugin ChaosEditor
+Mounting plugin ChaosNiagara
+Mounting plugin ChaosSolverPlugin
+Mounting plugin CharacterAI
+Mounting plugin GeometryCache
+Mounting plugin GeometryCollectionPlugin
+Mounting plugin Niagara
+Mounting plugin XCodeSourceCodeAccess
+Mounting plugin VisualStudioSourceCodeAccess
+Mounting plugin VisualStudioCodeSourceCodeAccess
+Mounting plugin GeometryProcessing
+Mounting plugin VariantManagerContent
+Mounting plugin GPULightmass
+Mounting plugin OpenImageDenoise
+Mounting plugin PlanarCut
+Mounting plugin DatasmithContent
+Mounting plugin ProxyLODPlugin
+Mounting plugin PythonScriptPlugin
+Mounting plugin MotoSynth
+Mounting plugin SkeletalReduction
+Mounting plugin LuminPlatformFeatures
+Mounting plugin MagicLeap
+Mounting plugin MagicLeapMedia
+Mounting plugin MagicLeapPassableWorld
+Mounting plugin MLSDK
+Mounting plugin AndroidMedia
+Mounting plugin MaterialAnalyzer
+Mounting plugin ImgMedia
+Mounting plugin MediaCompositing
+Mounting plugin AvfMedia
+Mounting plugin MediaPlayerEditor
+Mounting plugin WebMMedia
+Mounting plugin WmfMedia
+Mounting plugin ActorSequence
+Mounting plugin MatineeToLevelSequence
+Mounting plugin LevelSequenceEditor
+Mounting plugin TemplateSequence
+Mounting plugin UdpMessaging
+Mounting plugin ActorLayerUtilities
+Mounting plugin AndroidDeviceProfileSelector
+Mounting plugin AndroidMoviePlayer
+Mounting plugin AndroidPermission
+Mounting plugin AppleImageUtils
+Mounting plugin ApexDestruction
+Mounting plugin AppleMoviePlayer
+Mounting plugin ArchVisCharacter
+Mounting plugin AssetTags
+Mounting plugin AudioCapture
+Mounting plugin AudioSynesthesia
+Mounting plugin ChunkDownloader
+Mounting plugin EditableMesh
+Mounting plugin CustomMeshComponent
+Mounting plugin TcpMessaging
+Mounting plugin ExampleDeviceProfileSelector
+Mounting plugin GoogleCloudMessaging
+Mounting plugin GooglePAD
+Mounting plugin IOSDeviceProfileSelector
+Mounting plugin LinuxDeviceProfileSelector
+Mounting plugin LocationServicesBPLibrary
+Mounting plugin MobilePatchingUtils
+Mounting plugin OpenXR
+Mounting plugin OpenXRHandTracking
+Mounting plugin OpenXREyeTracker
+Mounting plugin PhysXVehicles
+Mounting plugin PostSplashScreen
+Mounting plugin PropertyAccessEditor
+Mounting plugin ProceduralMeshComponent
+Mounting plugin ResonanceAudio
+Mounting plugin RuntimePhysXCooking
+Mounting plugin SignificanceManager
+Mounting plugin SoundFields
+Mounting plugin ScreenshotTools
+Mounting plugin Synthesis
+Mounting plugin WebMMoviePlayer
+Mounting plugin WindowsMoviePlayer
+Mounting plugin LauncherChunkInstaller
+Mounting plugin Takes
+Mounting plugin OnlineSubsystem
+Mounting plugin OnlineSubsystemUtils
+Mounting plugin OnlineSubsystemNull
+Mounting plugin PlatformCrypto
+Mounting plugin CableComponent
+Mounting plugin MagicLeapLightEstimation
+Mounting plugin ContentBrowserAssetDataSource
+Mounting plugin ContentBrowserClassDataSource
+Mounting plugin ContentBrowserFileDataSource
+Mounting plugin OculusOpenXR
+Mounting plugin OnlineSubsystemGooglePlay
+Mounting plugin OnlineSubsystemIOS
+Mounting plugin DatabaseSupport
+Mounting plugin SQLiteCore
+Mounting plugin SQLiteSupport
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+GPULightmass module is loaded
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+OSS: Creating online subsystem instance for: NULL
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Build: ++UE4+Release-4.27-CL-18319896
+Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+Net CL: 17155196
+OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 1700 Eight-Core Processor          , GPU: NVIDIA GeForce GTX 1660 Ti
+Compiled (64-bit): Nov 30 2021 07:12:08
+Compiled with Visual C++: 19.24.28315.00
+Build Configuration: Development
+Branch Name: ++UE4+Release-4.27
+Command Line: 
+Base Directory: E:/Program Files/UE/UE_4.27/Engine/Binaries/Win64/
+Allocator: TBB
+Installed Engine Build: 1
+Number of dev versions registered: 29
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Object subsystem initialized
+Setting CVar [[con.DebugEarlyDefault:1]]
+Setting CVar [[r.setres:1280x720]]
+Setting CVar [[r.VSync:0]]
+Setting CVar [[r.RHICmdBypass:0]]
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Engine.ini]
+Setting CVar [[r.GPUCrashDebugging:0]]
+Setting CVar [[r.Mobile.DisableVertexFog:1]]
+Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+Setting CVar [[r.MobileMSAA:4]]
+Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+Setting CVar [[r.Mobile.VirtualTextures:0]]
+Setting CVar [[r.DiscardUnusedQuality:0]]
+Setting CVar [[r.AllowOcclusionQueries:1]]
+Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+Setting CVar [[r.TextureStreaming:1]]
+Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+Setting CVar [[r.VirtualTextures:0]]
+Setting CVar [[r.VirtualTexturedLightmaps:0]]
+Setting CVar [[r.VT.TileSize:128]]
+Setting CVar [[r.VT.TileBorderSize:4]]
+Setting CVar [[r.vt.FeedbackFactor:16]]
+Setting CVar [[r.VT.EnableCompressZlib:1]]
+Setting CVar [[r.VT.EnableCompressCrunch:0]]
+Setting CVar [[r.ClearCoatNormal:0]]
+Setting CVar [[r.ReflectionCaptureResolution:128]]
+Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+Setting CVar [[r.ForwardShading:1]]
+Setting CVar [[r.VertexFoggingForOpaque:1]]
+Setting CVar [[r.AllowStaticLighting:1]]
+Setting CVar [[r.NormalMapsForStaticLighting:0]]
+Setting CVar [[r.GenerateMeshDistanceFields:0]]
+Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+Setting CVar [[r.GenerateLandscapeGIData:0]]
+Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+Setting CVar [[r.SeparateTranslucency:0]]
+Setting CVar [[r.TranslucentSortPolicy:0]]
+Setting CVar [[r.CustomDepth:1]]
+Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+Setting CVar [[r.DefaultFeature.Bloom:0]]
+Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+Setting CVar [[r.UsePreExposure:1]]
+Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+Setting CVar [[r.DefaultFeature.LensFlare:0]]
+Setting CVar [[r.TemporalAA.Upsampling:0]]
+Setting CVar [[r.SSGI.Enable:0]]
+Setting CVar [[r.DefaultFeature.AntiAliasing:3]]
+Setting CVar [[r.DefaultFeature.LightUnits:1]]
+Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+Setting CVar [[r.StencilForLODDither:0]]
+Setting CVar [[r.EarlyZPass:3]]
+Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+Setting CVar [[r.DBuffer:1]]
+Setting CVar [[r.ClearSceneMethod:1]]
+Setting CVar [[r.BasePassOutputsVelocity:0]]
+Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+Setting CVar [[r.SelectiveBasePassOutputs:0]]
+Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+Setting CVar [[r.AllowGlobalClipPlane:0]]
+Setting CVar [[r.GBufferFormat:1]]
+Setting CVar [[r.MorphTarget.Mode:1]]
+Setting CVar [[vr.InstancedStereo:1]]
+Setting CVar [[r.MobileHDR:0]]
+Setting CVar [[vr.MobileMultiView:1]]
+Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+Setting CVar [[vr.RoundRobinOcclusion:0]]
+Setting CVar [[vr.ODSCapture:0]]
+Setting CVar [[r.MeshStreaming:0]]
+Setting CVar [[r.WireframeCullThreshold:5.000000]]
+Setting CVar [[r.RayTracing:1]]
+Setting CVar [[r.RayTracing.UseTextureLod:0]]
+Setting CVar [[r.SupportStationarySkylight:1]]
+Setting CVar [[r.SupportLowQualityLightmaps:1]]
+Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+Setting CVar [[r.SupportAtmosphericFog:1]]
+Setting CVar [[r.SupportSkyAtmosphere:1]]
+Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+Setting CVar [[r.SkinCache.CompileShaders:1]]
+Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+Setting CVar [[r.MobileNumDynamicPointLights:4]]
+Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+Setting CVar [[r.SupportReversedIndexBuffers:1]]
+Setting CVar [[r.LightPropagationVolume:0]]
+Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+Setting CVar [[r.Mobile.SupportGPUScene:1]]
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Engine.ini]
+Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+Setting CVar [[s.FlushStreamingOnExit:1]]
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Engine.ini]
+Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+Setting CVar [[gc.FlushStreamingOnGC:0]]
+Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+Setting CVar [[gc.AllowParallelGC:1]]
+Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+Setting CVar [[gc.CreateGCClusters:1]]
+Setting CVar [[gc.MinGCClusterSize:5]]
+Setting CVar [[gc.ActorClusteringEnabled:0]]
+Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Selected Device Profile: [Windows]
+Applying CVar settings loaded from the selected device profile: [Windows]
+Platform has ~ 16 GB [17106452480 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.SkeletalMeshLODBias:0]]
+Setting CVar [[r.ViewDistanceScale:1.0]]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.PostProcessAAQuality:4]]
+Applying CVar settings from Section [ShadowQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.LightFunctionQuality:1]]
+Setting CVar [[r.ShadowQuality:5]]
+Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+Setting CVar [[r.Shadow.MaxResolution:2048]]
+Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+Setting CVar [[r.Shadow.DistanceScale:1.0]]
+Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+Setting CVar [[r.DistanceFieldShadowing:1]]
+Setting CVar [[r.DistanceFieldAO:1]]
+Setting CVar [[r.AOQuality:2]]
+Setting CVar [[r.VolumetricFog:1]]
+Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+Setting CVar [[r.CapsuleShadows:1]]
+Applying CVar settings from Section [PostProcessQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.MotionBlurQuality:4]]
+Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+Setting CVar [[r.AmbientOcclusionLevels:-1]]
+Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+Setting CVar [[r.DepthOfFieldQuality:2]]
+Setting CVar [[r.RenderTargetPoolMin:400]]
+Setting CVar [[r.LensFlareQuality:2]]
+Setting CVar [[r.SceneColorFringeQuality:1]]
+Setting CVar [[r.EyeAdaptationQuality:2]]
+Setting CVar [[r.BloomQuality:5]]
+Setting CVar [[r.FastBlurThreshold:100]]
+Setting CVar [[r.Upscale.Quality:3]]
+Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+Setting CVar [[r.LightShaftQuality:1]]
+Setting CVar [[r.Filter.SizeScale:1]]
+Setting CVar [[r.Tonemapper.Quality:5]]
+Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+Applying CVar settings from Section [TextureQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.Streaming.MipBias:0]]
+Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+Setting CVar [[r.Streaming.Boost:1]]
+Setting CVar [[r.MaxAnisotropy:8]]
+Setting CVar [[r.VT.MaxAnisotropy:8]]
+Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+Setting CVar [[r.Streaming.PoolSize:1000]]
+Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+Applying CVar settings from Section [EffectsQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+Setting CVar [[r.RefractionQuality:2]]
+Setting CVar [[r.SSR.Quality:3]]
+Setting CVar [[r.SSR.HalfResSceneColor:0]]
+Setting CVar [[r.SceneColorFormat:4]]
+Setting CVar [[r.DetailMode:2]]
+Setting CVar [[r.TranslucencyVolumeBlur:1]]
+Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+Setting CVar [[r.AnisotropicMaterials:1]]
+Setting CVar [[r.SSS.Scale:1]]
+Setting CVar [[r.SSS.SampleSet:2]]
+Setting CVar [[r.SSS.Quality:1]]
+Setting CVar [[r.SSS.HalfRes:0]]
+Setting CVar [[r.SSGI.Quality:3]]
+Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+Setting CVar [[r.ParticleLightQuality:2]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+Applying CVar settings from Section [FoliageQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[foliage.DensityScale:1.0]]
+Setting CVar [[grass.DensityScale:1.0]]
+Applying CVar settings from Section [ShadingQuality@3] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Scalability.ini]
+Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+Applying CVar settings from Section [ConsoleVariables] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Engine.ini]
+Applying CVar settings from Section [ConsoleVariables] File [E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Config/Windows/Editor.ini]
+Computer: ANGELJUMBO1
+User: angel
+CPU Page size=4096, Cores=8
+High frequency timer resolution =14.318180 MHz
+Memory total: Physical=15.9GB (16GB approx)
+Platform Memory Stats for Windows
+Process Physical Memory: 148.74 MB used, 148.74 MB peak
+Process Virtual Memory: 132.94 MB used, 132.94 MB peak
+Physical Memory: 12827.43 MB used,  3486.55 MB free, 16313.98 MB total
+Virtual Memory: 134213640.00 MB used,  4085.26 MB free, 134217728.00 MB total
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: PhysX
+Overriding language with editor language configuration option (en).
+Using OS detected locale (es-MX).
+Setting process to per monitor DPI aware
+IME system deactivated.
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+Loaded GFSDK_Aftermath_Lib.x64.dll
+Optional extension XR_VARJO_quad_views is not available
+Required extension XR_EXT_eye_gaze_interaction is not available
+Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+D3D11 min allowed feature level: 11_0
+D3D11 max allowed feature level: 11_0
+D3D11 adapters:
+   0. 'NVIDIA GeForce GTX 1660 Ti' (Feature Level 11_0)
+      5991/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+   1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+      0/0/8156 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+Chosen D3D11 Adapter:
+    Description : NVIDIA GeForce GTX 1660 Ti
+    VendorId    : 10de
+    DeviceId    : 2182
+    SubSysId    : 86a61043
+    Revision    : 00a1
+    DedicatedVideoMemory : 6282018816 bytes
+    DedicatedSystemMemory : 0 bytes
+    SharedSystemMemory : 8553226240 bytes
+    AdapterLuid : 0 48458
+Creating new Direct3DDevice
+    GPU DeviceId: 0x2182 (for the marketing name, search the web for "GPU Device Id")
+EnumDisplayDevices:
+   0. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:1)
+   1. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1)
+   2. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+   3. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0)
+DebugString: FoundDriverCount:4 
+    Adapter Name: NVIDIA GeForce GTX 1660 Ti
+  Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+     Driver Date: 3-17-2022
+Texture pool is 4193 MB (70% of 5991 MB)
+Creating D3DDevice using adapter:
+    Description : NVIDIA GeForce GTX 1660 Ti
+    VendorId    : 10de
+    DeviceId    : 2182
+    SubSysId    : 86a61043
+    Revision    : 00a1
+    DedicatedVideoMemory : 6282018816 bytes
+    DedicatedSystemMemory : 0 bytes
+    SharedSystemMemory : 8553226240 bytes
+    AdapterLuid : 0 48458
+RHI has support for 64 bit atomics
+Async texture creation enabled
+Array index from any shader is supported
+GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+GeForceNow SDK initialized: 1
+Loaded TargetPlatform 'AllDesktop'
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxNoEditor'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxAArch64NoEditor'
+Loaded TargetPlatform 'LinuxAArch64Client'
+Loaded TargetPlatform 'LinuxAArch64Server'
+Loaded TargetPlatform 'Lumin'
+Loaded TargetPlatform 'LuminClient'
+Loaded TargetPlatform 'MacNoEditor'
+Loaded TargetPlatform 'Mac'
+Loaded TargetPlatform 'MacClient'
+Loaded TargetPlatform 'MacServer'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'WindowsNoEditor'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsClient'
+Loaded TargetPlatform 'WindowsServer'
+Building Assets For Windows
+Lib vorbis DLL was dynamically loaded.
+Oodle Texture 2.9.0 init RDO Off
+Ray tracing is disabled. Reason: not supported by current RHI.
+Guid format shader working directory is -26 characters bigger than the processId version (../../../../../../Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Intermediate/Shaders/WorkingDirectory/16132/).
+Cleaned the shader compiler working directory 'C:/Users/angel/AppData/Local/Temp/UnrealShaderWorkingDir/EF5D6D804B1243003923EEAE04C1245C/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+Using Local Shader Compiler.
+Max Cache Size: 512 MB
+Loaded boot cache 0.20s 113MB C:/Users/angel/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+Loaded Boot cache: C:/Users/angel/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchical cache Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+Speed tests for C:/Users/angel/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+Performance to C:/Users/angel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.09ms. RandomReadSpeed=93.02MBs, RandomWriteSpeed=76.57MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/angel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchical cache Hierarchy.
+Submitted 3076 shader compile jobs with 'High' priority
+Using FreeType 2.10.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+Worker (1/13): shaders left to compile 3076
+Worker (2/13): shaders left to compile 3066
+Worker (3/13): shaders left to compile 3056
+Worker (4/13): shaders left to compile 3046
+Worker (5/13): shaders left to compile 3036
+Worker (6/13): shaders left to compile 3026
+Worker (7/13): shaders left to compile 3016
+Worker (8/13): shaders left to compile 3006
+Worker (9/13): shaders left to compile 2996
+Worker (10/13): shaders left to compile 2986
+Worker (11/13): shaders left to compile 2976
+Worker (12/13): shaders left to compile 2966
+Worker (13/13): shaders left to compile 2956
+Started 130 'Local' shader compile jobs with 'High' priority
+FAssetRegistry took 0.0073 seconds to start up
+Selected Device Profile: [Windows]
+Active device profile: [0000024FBAAF3A00][0000024FB2267180 49] Windows
+Profiles: [0000024FBAAF3A00][0000024FB2267180 49] Windows, [0000024FBAAA8800][0000024FB9A63300 49] WindowsNoEditor, [0000024FBAAF0800][0000024FB9A67480 49] WindowsServer, [0000024FBAAAB100][0000024FB8685600 49] WindowsClient, [0000024FBAAF3000][0000024FB8689780 49] IOS, [0000024FBAAA9200][0000024FB868D900 49] iPadAir, [0000024FBAAF1100][0000024FB8691A80 49] iPadAir2, [0000024FBAA4FF00][0000024FB8694140 49] IPadPro, [0000024FBAA4FE00][0000024FB9A5E180 49] iPadAir3, [0000024FBAAF2900][0000024FB86982C0 49] iPadAir4, [0000024FBAA4CD00][0000024FB869C400 49] iPadMini2, [0000024FBAAF1600][0000024FB21CE580 49] iPadMini3, [0000024FBAA4EB00][0000024FB21D2700 49] iPadMini4, [0000024FBAAF2100][0000024FB21DA880 49] iPadMini5, [0000024FBAA97800][0000024FB21E2B40 49] iPhone6, [0000024FBAA97900][0000024FB21DEB80 49] iPodTouch6, [0000024FBAA4D000][0000024FB9D7AE40 49] iPhone7, [0000024FBAA4D100][0000024FB9D72E80 49] iPodTouch7, [0000024FBAA94C00][0000024FBB155000 49] iPhone5S, [0000024FBAA4DC00][0000024FBB183180 49] iPhone6Plus, [0000024FBAA96C00][0000024FBB187300 49] iPhone6S, [0000024FBAA4FA00][0000024FBB18B480 49] iPhone6SPlus, [0000024FBAA95500][0000024FB6251600 49] iPhone7Plus, [0000024FBAA4C900][0000024FB6255780 49] iPhoneSE, [0000024FBAA96300][0000024FB6259900 49] iPhone8, [0000024FBAA4F700][0000024FB625DA80 49] iPhone8Plus, [0000024FBAA97400][0000024FB6261C00 49] iPhoneX, [0000024FBAA4DF00][0000024FB6264200 49] iPhoneXS, [0000024FBAA94F00][0000024FB21CA340 49] iPhoneXSMax, [0000024FBAA4F800][0000024FB628A480 49] iPhoneXR, [0000024FBAA96B00][0000024FB628E5C0 49] iPhone11, [0000024FBAA4D500][0000024FB6296740 49] iPhone11Pro, [0000024FBAA97C00][0000024FB629A8C0 49] iPhone11ProMax, [0000024FBAA4C700][0000024FB629EA40 49] iPhoneSE2, [0000024FBAA94E00][0000024FB9B54BC0 49] iPhone12Mini, [0000024FBAA4CB00][0000024FB9BEED40 49] iPhone12, [0000024FBAA95200][0000024FB9BF2EC0 49] iPhone12Pro, [0000024FBAA4EE00][0000024FB9C27040 49] iPhone12ProMax, [0000024FBAA94900][0000024FB9C2B1C0 49] iPadPro105, [0000024FBAA4F500][0000024FB9C2F340 49] iPadPro129, [0000024FBAA96500][0000024FB9C6F4C0 49] iPadPro97, [0000024FBAA4DE00][0000024FB9D45640 49] iPadPro2_129, [0000024FBAA97300][0000024FBB1EF7C0 49] iPad5, [0000024FBAA4ED00][0000024FBB1F3940 49] iPad6, [0000024FBAA94D00][0000024FBB1F7AC0 49] iPad7, [0000024FBAA4CF00][0000024FBB2720C0 49] iPad8, [0000024FBAA96400][0000024FBB2C8240 49] iPadPro11, [0000024FBAA4E800][0000024FBB2CC3C0 49] iPadPro2_11, [0000024FBAA96600][0000024FB6292500 49] iPadPro3_129, [0000024FBAA4D200][0000024FBB43C640 49] iPadPro4_129, [0000024FBAA95900][0000024FBB444780 49] AppleTV, [0000024FBAA4C200][0000024FBB4488C0 49] AppleTV4K, [0000024FBAA95C00][0000024FBB450A40 49] TVOS, [0000024FBAA4F900][0000024FBB454BC0 49] Mac, [0000024FBAA94700][0000024FBB45CD40 49] MacClient, [0000024FBAA4EF00][0000024FBB460EC0 49] MacNoEditor, [0000024FBAA97100][0000024FBB465040 49] MacServer, [0000024FBAA4E300][0000024FBB4691C0 49] Linux, [0000024FBAA95400][0000024FBB46D340 49] LinuxAArch64, [0000024FBAA4CC00][0000024FBB4714C0 49] LinuxNoEditor, [0000024FBAA97200][0000024FBB475640 49] LinuxAArch64NoEditor, [0000024FBAA4D800][0000024FBB4797C0 49] LinuxClient, [0000024FBAAAB300][0000024FB6217940 49] LinuxAArch64Client, [0000024FBAB30100][0000024FB621BAC0 49] LinuxServer, [0000024FBAAAA900][0000024FB621E0C0 49] LinuxAArch64Server, [0000024FBAB30600][0000024FB6222240 49] Android, [0000024FBAAAA800][0000024FB62263C0 49] Android_Low, [0000024FBAB31100][0000024FB6234540 49] Android_Mid, [0000024FBAAA9D00][0000024FBB44C680 49] Android_High, [0000024FBAB30B00][0000024FB62447C0 49] Android_Default, [0000024FBAAAAF00][0000024FB6248900 49] Android_Adreno4xx, [0000024FBAB30E00][0000024FB624CA40 49] Android_Adreno5xx_Low, [0000024FBAAA8A00][0000024FB9A3EBC0 49] Android_Adreno5xx, [0000024FBAB32200][0000024FB9A42D40 49] Android_Adreno6xx, [0000024FBAAABF00][0000024FB9A46EC0 49] Android_Adreno6xx_Vulkan, [0000024FBAB31B00][0000024FB9A4B040 49] Android_Mali_T6xx, [0000024FBAAA9800][0000024FB9A4F1C0 49] Android_Mali_T7xx, [0000024FBAB31600][0000024FB9A53340 49] Android_Mali_T8xx, [0000024FBAAA8200][0000024FB9A574C0 49] Android_Mali_G71, [0000024FBAB32600][0000024FBB58D640 49] Android_Mali_G72, [0000024FBAAA9B00][0000024FBB5917C0 49] Android_Mali_G72_Vulkan, [0000024FBAB31900][0000024FBB595940 49] Android_Mali_G76, [0000024FBAAAA600][0000024FB9D77AC0 49] Android_Mali_G76_Vulkan, [0000024FBAB31E00][0000024FBB5880C0 49] Android_Mali_G77, [0000024FBAAA9400][0000024FBB598240 49] Android_Mali_G77_Vulkan, [0000024FBAB30900][0000024FBB59C3C0 49] Android_Mali_G78, [0000024FBAAA8D00][0000024FBB12A540 49] Android_Mali_G78_Vulkan, [0000024FBAB32F00][0000024FBB13A6C0 49] Android_Mali_G710, [0000024FBAA4CE00][0000024FBB13E840 49] Android_Mali_G710_Vulkan, [0000024FBAB31A00][0000024FB9A3A980 49] Android_Vulkan_SM5, [0000024FBAA4F300][0000024FBB142AC0 49] Android_PowerVR_G6xxx, [0000024FBAB32000][0000024FBB146C00 49] Android_PowerVR_GT7xxx, [0000024FBAA4F000][0000024FB9BD2D80 49] Android_PowerVR_GE8xxx, [0000024FBAB32C00][0000024FBB458F00 49] Android_PowerVR_GM9xxx, [0000024FBAA4D600][0000024FB9BD7080 49] Android_PowerVR_GM9xxx_Vulkan, [0000024FBAB31D00][0000024FBB21F200 49] Android_TegraK1, [0000024FBAA4C300][0000024FBB1EB380 49] Android_Unknown_Vulkan, [0000024FBAB32700][0000024FB9C73500 49] Lumin, [0000024FBAA4D700][0000024FB9D6F680 49] Lumin_Desktop, [0000024FBAB31700][0000024FB9BDB800 49] HoloLens, 
+Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 545D65ED7B07F74B5997811E6EFEAFCE4550AD12), compiling. Is special engine material.
+Submitted 1315 shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 4261
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 4251
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 4241
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 4231
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 4221
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 4211
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 4201
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 4191
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 4181
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 4171
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 4161
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 4151
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 4141
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 4131
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 4121
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 4111
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 4101
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 4091
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 4081
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 4071
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 4061
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 4051
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 4041
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 4031
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 4021
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 4011
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 4001
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 3991
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 3981
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 3971
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 3961
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 3951
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 3941
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 3931
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 3921
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 3911
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 3901
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 3891
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 3881
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 3871
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 3861
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 3851
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 3841
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 3831
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 3821
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 3811
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 3801
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 3791
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 3781
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 3771
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 3761
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 3751
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 3741
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 3731
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 3721
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 3711
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 3701
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 3691
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 3681
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 3671
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 3661
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 3651
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 3641
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 3631
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 3621
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 3611
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 3601
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 3591
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 3581
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 3571
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 3561
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 3551
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 3541
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 3531
+Worker (8/13): shaders left to compile 3521
+Started 20 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 3511
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 3501
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 3491
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 3481
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 3471
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 3461
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 3451
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 3441
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 3431
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 3421
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 3411
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 3401
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 3391
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 3381
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 3371
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 3361
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 3351
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 3341
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 3331
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 3321
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 3311
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 3301
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 3291
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 3281
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 3271
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 3261
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 3251
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 3241
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 3231
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 3221
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 3211
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 3201
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 3191
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 3181
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 3171
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 3161
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 3151
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 3141
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 3131
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 3121
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 3111
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 3101
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 3091
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 3081
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 3071
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 3061
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 3051
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 3041
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 3031
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 3021
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 3011
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 3001
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 2991
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 2981
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 2971
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 2961
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 2951
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2941
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2931
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2921
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 2911
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2901
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 2891
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 2881
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2871
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 2861
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 2851
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2841
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 2831
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 2821
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 2811
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 2801
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 2791
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2781
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2771
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 2761
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 2751
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 2741
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2731
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 2721
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 2711
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2701
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2691
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 2681
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 2671
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2661
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 2651
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 2641
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 2631
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2621
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 2611
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 2601
+Started 10 'Local' shader compile jobs with 'High' priority
+Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5325E45E737ABAC0661CF5384265F6ECF1ADA25A), compiling. 
+Submitted 37 shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 2628
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2618
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 2608
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 2598
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2588
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 2578
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 2568
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 2558
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 2548
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 2538
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 2528
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 2518
+Started 10 'Local' shader compile jobs with 'High' priority
+Missing cached shadermap for DefaultPostProcessMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 284CCA46D28E139F2126A8EE2AE383BBC32A3355), compiling. 
+Submitted 46 shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 2554
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 2544
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 2534
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 2524
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2514
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 2504
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 2494
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 2484
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 2474
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 2464
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2454
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2444
+Started 10 'Local' shader compile jobs with 'High' priority
+Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: EC41AEEE4B7D99F6BC7F299FAD91D8D179821B0C), compiling. 
+Submitted 208 shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2642
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 2632
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 2622
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 2612
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 2602
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 2592
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2582
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 2572
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2562
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 2552
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2542
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 2532
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 2522
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 2512
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 2502
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 2492
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 2482
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 2472
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2462
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 2452
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 2442
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 2432
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 2422
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 2412
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 2402
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2392
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2382
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 2372
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 2362
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2352
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 2342
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 2332
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 2322
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 2312
+Started 10 'Local' shader compile jobs with 'High' priority
+Missing cached shadermap for MatineeCam_mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7C10426DA13B78075D16E6DBED2C6BACD021F35A), compiling. 
+Submitted 28 shader compile jobs with 'Low' priority
+Using QuadricMeshReduction for automatic static mesh reduction
+Using SimplygonMeshReduction for automatic skeletal mesh reduction
+Using ProxyLODMeshReduction for automatic mesh merging
+No distributed automatic mesh merging module available
+No distributed automatic mesh merging module available
+Campo_tiro 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1075804226)
+Missing cached shadermap for HelpActorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6900D4992B53DD4BC9C40C6B2F897D80B899BF46), compiling. 
+Submitted 88 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_ChromeBall in PCD3D_SM5, Default, SM5 (DDC key hash: E47C65847A5FDC277439ADB1453E18430B629999), compiling. 
+Submitted 81 shader compile jobs with 'Low' priority
+Missing cached shadermap for DefaultTextMaterialOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: C6A61F8B7DB976A849B7997D9275F1B40E0C3EE5), compiling. 
+Submitted 50 shader compile jobs with 'Low' priority
+Missing cached shadermap for m_SimpleVolumetricCloud in PCD3D_SM5, Default, SM5 (DDC key hash: EC9769BC0CA39138EC45C969A7AAD7C2D4B39A05), compiling. 
+Submitted 70 shader compile jobs with 'Low' priority
+Missing cached shadermap for BaseFlattenMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 21D395C8A6695AD6C1CA1E637EC6FEC083D578F8), compiling. 
+Worker (1/13): shaders left to compile 2302
+Started 10 'Local' shader compile jobs with 'High' priority
+Submitted 76 shader compile jobs with 'Low' priority
+Missing cached shadermap for Main in PCD3D_SM5, Default, SM5 (DDC key hash: 7065FB0732F10D07AC4E1B3A6AD0ACA02AA8CA66), compiling. 
+Submitted 22 shader compile jobs with 'Low' priority
+Missing cached shadermap for Xray in PCD3D_SM5, Default, SM5 (DDC key hash: 6BD836006699267A0A40E4F74A12866FE0C436A0), compiling. 
+Submitted 28 shader compile jobs with 'Low' priority
+Missing cached shadermap for Widget3DPassThrough in PCD3D_SM5, Default, SM5 (DDC key hash: 76C8C0F9F358F37C6ED64B9370D5E6547AAE6F55), compiling. 
+Submitted 22 shader compile jobs with 'Low' priority
+Missing cached shadermap for Widget3DPassThrough_Translucent in PCD3D_SM5, Default, SM5 (DDC key hash: 4E1F7A663309BA199BF07BF82507BAE24E00A04E), compiling. 
+Submitted 24 shader compile jobs with 'Low' priority
+Missing cached shadermap for Widget3DPassThrough_Opaque in PCD3D_SM5, Default, SM5 (DDC key hash: 5F61D8F846277DA1E79777EDAE018A5BF9907CDC), compiling. 
+Submitted 21 shader compile jobs with 'Low' priority
+Missing cached shadermap for Widget3DPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 6B12608BB7A58C75CB66829F93632B7AF5BA5CA1), compiling. 
+Submitted 16 shader compile jobs with 'Low' priority
+Missing cached shadermap for Widget3DPassThrough_Masked in PCD3D_SM5, Default, SM5 (DDC key hash: A87C443292C07ECBEE561623C9E02C2333C2964F), compiling. 
+Submitted 36 shader compile jobs with 'Low' priority
+Missing cached shadermap for Widget3DPassThrough_Masked_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 2169E2AAE23B025B0D9683E387FFE31A1997A0CE), compiling. 
+Submitted 36 shader compile jobs with 'Low' priority
+Missing cached shadermap for Widget3DCameraPassThrough_Opaque_OneSided in PCD3D_SM5, Default, SM5 (DDC key hash: 60CF21DBAD3CCB5D73FA789277B0BC9348B17CF6), compiling. 
+Submitted 16 shader compile jobs with 'Low' priority
+Missing cached shadermap for TranslucentTransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A7A855A364BE7B4F1373622DC2C98312D08D4604), compiling. 
+Submitted 22 shader compile jobs with 'Low' priority
+Missing cached shadermap for TransformGizmoMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D97449F67AF8E6EEB41A663443B025B82A2690CB), compiling. 
+Submitted 16 shader compile jobs with 'Low' priority
+Missing cached shadermap for CineMat in PCD3D_SM5, Default, SM5 (DDC key hash: 82A543A5A7313A28B8876261092A8620DF8830C3), compiling. 
+Submitted 46 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_SimpleOpaque in PCD3D_SM5, Default, SM5 (DDC key hash: 5D5E66A2F217EF4F6384B9B37AEC34DBD73B9634), compiling. 
+Worker (10/13): shaders left to compile 2292
+Started 10 'Local' shader compile jobs with 'High' priority
+Submitted 28 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_SimpleUnlitTranslucent in PCD3D_SM5, Default, SM5 (DDC key hash: 2952FE5A5CC3ED982B3201D26FE214F8F5F448B6), compiling. 
+Submitted 22 shader compile jobs with 'Low' priority
+Missing cached shadermap for SkySphereMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 302B3BA78BE2C34CF718E01E93A6E49886801180), compiling. 
+Submitted 16 shader compile jobs with 'Low' priority
+Missing cached shadermap for FloorPlaneMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 873AD9AEB150C4594FDB1277DCDF900409201D96), compiling. 
+Submitted 43 shader compile jobs with 'Low' priority
+Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+Missing cached shadermap for LandscapeGizmo_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 3FE8996F9DD914030C4C913EE43367504BB42093), compiling. 
+Submitted 36 shader compile jobs with 'Low' priority
+Missing cached shadermap for LandscapeGizmoHeight_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 2FA5ECD17886B0911AAD9789A50C4353A5D53430), compiling. 
+Submitted 73 shader compile jobs with 'Low' priority
+Missing cached shadermap for SplineEditorMeshMat in PCD3D_SM5, Default, SM5 (DDC key hash: 5186208E73DC459E37F98E8E2400DA09C00BAE4C), compiling. 
+Submitted 34 shader compile jobs with 'Low' priority
+17033 objects as part of root set at end of initial load.
+4263376 out of 0 bytes used by permanent object pool.
+CloseDisregardForGC: 0/0 objects in disregard for GC pool
+Worker (2/13): shaders left to compile 2282
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 2272
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 2262
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 2252
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 2242
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 2232
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 2222
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2212
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 2202
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2192
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 2182
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 2172
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2162
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 2152
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2142
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 2132
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2122
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 2112
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2102
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2092
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 2082
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 2072
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 2062
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 2052
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2042
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2032
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 2022
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 2012
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 2002
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 1992
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1982
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1972
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1962
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 1952
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1942
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 1932
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 1922
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 1912
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 1902
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 1892
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1882
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 1872
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1862
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 1852
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1842
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1832
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1822
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 1812
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 1802
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 1792
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1782
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1772
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1762
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 1752
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 1742
+Worker (11/13): shaders left to compile 1732
+Started 20 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 1722
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 1712
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1702
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1692
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1682
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 1672
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 1662
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 1652
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 1642
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 1632
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1622
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1612
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1602
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 1592
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 1582
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 1572
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 1562
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 1552
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1542
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1532
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1522
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 1512
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 1502
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 1492
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 1482
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 1472
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 1462
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1452
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1442
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1432
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 1422
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 1412
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 1402
+Worker (13/13): shaders left to compile 1392
+Started 20 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1382
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 1372
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1362
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 1352
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 1342
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 1332
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1322
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 1312
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1302
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 1292
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 1282
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 1272
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1262
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 1252
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 1242
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 1232
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1222
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1212
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 1202
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 1192
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1182
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 1172
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 1162
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1152
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 1142
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1132
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 1122
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1112
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 1102
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 1092
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 1082
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 1072
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (5/13): shaders left to compile 1062
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (6/13): shaders left to compile 1052
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 1042
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 1032
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (2/13): shaders left to compile 1022
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (8/13): shaders left to compile 1012
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (3/13): shaders left to compile 1002
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 992
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 982
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 972
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 962
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 952
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 942
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 932
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 922
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 912
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 902
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 892
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 882
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 872
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 862
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 852
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 842
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 832
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 822
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 812
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 802
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 792
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 782
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 772
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 762
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 752
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 742
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 732
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 722
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 712
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 702
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 692
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 682
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 672
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 662
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 652
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 642
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 632
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 622
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 612
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 602
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 592
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 582
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 572
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 562
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 552
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 542
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 532
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 522
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 512
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 502
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 492
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 482
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 472
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 462
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (10/13): shaders left to compile 452
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 442
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 432
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 422
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 412
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 402
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 392
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 382
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 372
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 362
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 352
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 342
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 332
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 322
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 312
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 302
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 292
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 282
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 272
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 262
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 252
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 242
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 232
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 222
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 212
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 202
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 192
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 182
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 172
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 162
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (13/13): shaders left to compile 152
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (9/13): shaders left to compile 142
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 132
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 122
+Started 10 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 112
+Started 9 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 103
+Started 8 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 95
+Started 8 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 87
+Started 7 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 80
+Started 7 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 73
+Started 6 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 67
+Started 6 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 61
+Started 5 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 56
+Started 5 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 51
+Started 4 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 47
+Started 4 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 43
+Started 4 'Local' shader compile jobs with 'High' priority
+Worker (11/13): shaders left to compile 39
+Started 4 'Local' shader compile jobs with 'High' priority
+Worker (1/13): shaders left to compile 35
+Started 3 'Local' shader compile jobs with 'High' priority
+Worker (12/13): shaders left to compile 32
+Started 3 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 29
+Started 3 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 26
+Started 3 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 23
+Started 2 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 21
+Started 2 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 19
+Started 2 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 17
+Started 2 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 15
+Started 2 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 13
+Started 2 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 11
+Started 1 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 10
+Started 1 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 9
+Started 1 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 8
+Started 1 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 7
+Started 1 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 6
+Started 1 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 5
+Started 1 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 4
+Started 1 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 3
+Started 1 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 2
+Started 1 'Local' shader compile jobs with 'High' priority
+Worker (7/13): shaders left to compile 1
+Started 1 'Local' shader compile jobs with 'High' priority
+Worker (4/13): shaders left to compile 950
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (7/13): shaders left to compile 940
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (9/13): shaders left to compile 930
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (11/13): shaders left to compile 920
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (9/13): shaders left to compile 910
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (4/13): shaders left to compile 900
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (7/13): shaders left to compile 890
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (12/13): shaders left to compile 880
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (13/13): shaders left to compile 870
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (1/13): shaders left to compile 860
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (11/13): shaders left to compile 850
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (1/13): shaders left to compile 840
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (4/13): shaders left to compile 830
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (9/13): shaders left to compile 820
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (4/13): shaders left to compile 810
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (7/13): shaders left to compile 800
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (12/13): shaders left to compile 790
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (1/13): shaders left to compile 780
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (9/13): shaders left to compile 770
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (11/13): shaders left to compile 760
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (13/13): shaders left to compile 750
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (3/13): shaders left to compile 740
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (11/13): shaders left to compile 730
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (13/13): shaders left to compile 720
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (4/13): shaders left to compile 710
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (3/13): shaders left to compile 700
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (11/13): shaders left to compile 690
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (10/13): shaders left to compile 680
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (2/13): shaders left to compile 670
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (9/13): shaders left to compile 660
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (7/13): shaders left to compile 650
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (3/13): shaders left to compile 640
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (12/13): shaders left to compile 630
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (7/13): shaders left to compile 620
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (1/13): shaders left to compile 610
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (12/13): shaders left to compile 600
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (3/13): shaders left to compile 590
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (4/13): shaders left to compile 580
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (7/13): shaders left to compile 570
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (1/13): shaders left to compile 560
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (3/13): shaders left to compile 550
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (10/13): shaders left to compile 540
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (12/13): shaders left to compile 530
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (13/13): shaders left to compile 520
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (4/13): shaders left to compile 510
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (2/13): shaders left to compile 500
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (11/13): shaders left to compile 490
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (9/13): shaders left to compile 480
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (3/13): shaders left to compile 470
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (10/13): shaders left to compile 460
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (7/13): shaders left to compile 450
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (1/13): shaders left to compile 440
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (13/13): shaders left to compile 430
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (12/13): shaders left to compile 420
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (4/13): shaders left to compile 410
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (11/13): shaders left to compile 400
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (10/13): shaders left to compile 390
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (2/13): shaders left to compile 380
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (9/13): shaders left to compile 370
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (3/13): shaders left to compile 360
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (4/13): shaders left to compile 350
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (7/13): shaders left to compile 340
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (6/13): shaders left to compile 330
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (11/13): shaders left to compile 320
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (12/13): shaders left to compile 310
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (10/13): shaders left to compile 300
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (9/13): shaders left to compile 290
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (2/13): shaders left to compile 280
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (7/13): shaders left to compile 270
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (11/13): shaders left to compile 260
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (13/13): shaders left to compile 250
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (1/13): shaders left to compile 240
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (5/13): shaders left to compile 230
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (3/13): shaders left to compile 220
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (9/13): shaders left to compile 210
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (6/13): shaders left to compile 200
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (4/13): shaders left to compile 190
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (11/13): shaders left to compile 180
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (2/13): shaders left to compile 170
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (9/13): shaders left to compile 160
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (10/13): shaders left to compile 150
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (3/13): shaders left to compile 140
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (1/13): shaders left to compile 130
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (8/13): shaders left to compile 120
+Started 10 'Local' shader compile jobs with 'Low' priority
+Worker (5/13): shaders left to compile 110
+Started 9 'Local' shader compile jobs with 'Low' priority
+Worker (6/13): shaders left to compile 101
+Started 8 'Local' shader compile jobs with 'Low' priority
+Worker (13/13): shaders left to compile 93
+Started 8 'Local' shader compile jobs with 'Low' priority
+=== FShaderJobCache stats ===
+Total job queries 5632, among them cache hits 0 (0.00%)
+Tracking 5422 distinct input hashes that result in 3514 distinct outputs (64.81%)
+RAM used: 43.55 MB (0.04 GB) of 819.20 MB (0.80 GB) budget. Usage: 5.32%
+================================================
+Missing cached shadermap for DefaultSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 13970373F7926F93AFCD4621AA3CAA363B8246BA), compiling. 
+Submitted 96 shader compile jobs with 'Low' priority
+Missing cached shadermap for OpaqueUnlitSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: DB39DB9357AF8540BE83AA97902968EDBFAFA327), compiling. 
+Submitted 51 shader compile jobs with 'Low' priority
+Missing cached shadermap for BaseColor in PCD3D_SM5, Default, SM5 (DDC key hash: 3F6E8B93BB0210D54300D8D87CAF7DC5E615881B), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for CustomDepth in PCD3D_SM5, Default, SM5 (DDC key hash: D2D2959940299AEE9D7EB5DDE45543A9319AC2B0), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for CustomStencil in PCD3D_SM5, Default, SM5 (DDC key hash: E5E9EDE915DA4F3ED5D981414AAC5A26FB147DEB), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for FinalImage in PCD3D_SM5, Default, SM5 (DDC key hash: 4BFC08E14B6C533D8C32B2F2640D8D0196D78CDD), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for LightingModel in PCD3D_SM5, Default, SM5 (DDC key hash: 490C9F3ED9A67E0CF87331D86F11E48F6A36475E), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for MaterialAO in PCD3D_SM5, Default, SM5 (DDC key hash: 14A41A154C94AA63F7956B9FF83B9733B660997A), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for Metallic in PCD3D_SM5, Default, SM5 (DDC key hash: 3C3298B2276AB2F332EEE32B0347837736EAD2C0), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for Opacity in PCD3D_SM5, Default, SM5 (DDC key hash: FDD55B8389D4CFFF14A602C21CE62693A08C4C23), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for Roughness in PCD3D_SM5, Default, SM5 (DDC key hash: 3974FE85EF9A46CF6FE52B247B1331788C16CFA7), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for Anisotropy in PCD3D_SM5, Default, SM5 (DDC key hash: EB2BC9FC37ED6B087D62E78D9B9F3C7ACF0E68AE), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for SceneColor in PCD3D_SM5, Default, SM5 (DDC key hash: AEA59D0323DDF52AE9D02619A64BDEADFE081249), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for SceneDepth in PCD3D_SM5, Default, SM5 (DDC key hash: 376709614ACFFE4791BDE99CAEA8DCFA45C9332E), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for SeparateTranslucencyRGB in PCD3D_SM5, Default, SM5 (DDC key hash: 7AA4746FD4DEF643AD968002D56D9CABA87EC890), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for SeparateTranslucencyA in PCD3D_SM5, Default, SM5 (DDC key hash: 555D6B11C0AE19DC6639A7E4F2BEFA2AEFBE6957), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for Specular in PCD3D_SM5, Default, SM5 (DDC key hash: 6CE6F6AB6BFC36723B9C01B34651A98DFDFD0A7A), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for SubsurfaceColor in PCD3D_SM5, Default, SM5 (DDC key hash: 17C027B08E77933EAA2BDF61E5281FFA63D75115), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for WorldNormal in PCD3D_SM5, Default, SM5 (DDC key hash: 9C60B10E8A972AB9BC0B6B44F970CF14311DACA7), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for WorldTangent in PCD3D_SM5, Default, SM5 (DDC key hash: EAA1183C1CF83DE20D038874AE2A6BC78E3C5407), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for AmbientOcclusion in PCD3D_SM5, Default, SM5 (DDC key hash: 01F9EBD5C397466175DEFD563A90011C1C31B261), compiling. 
+Submitted 24 shader compile jobs with 'Low' priority
+Missing cached shadermap for CustomDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: 972B17D89E47C41B049787FC6C740BE7B1E6DF68), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for SceneDepthWorldUnits in PCD3D_SM5, Default, SM5 (DDC key hash: C4B61994D6DB0D0B4138786D1E35DC5CF4BE96F8), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for Velocity in PCD3D_SM5, Default, SM5 (DDC key hash: 9A87D73AECD6044C349605D8B2B5682DEF13B309), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for PreTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: 00B420DC883FAC55708FEC6BB510982E5609A262), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Missing cached shadermap for PostTonemapHDRColor in PCD3D_SM5, Default, SM5 (DDC key hash: 69BAEBA9A414761C85C5DF49F96C6050FF5AD345), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Niagara Debugger Client Initialized | Session: F62D6C40451339BBBA9C9F8133D3736C | Instance: C34049CB482070F8F378D89686092BA5 (ANGELJUMBO1-16132).
+Using Python 3.7.7
+Worker (5/13): shaders left to compile 670
+Started 10 'Local' shader compile jobs with 'Low' priority
+Missing cached shadermap for DefaultMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BBF0876A57A66CD46CD9517AED7CD4A5A4DA730A), compiling. 
+Worker (13/13): shaders left to compile 660
+Started 10 'Local' shader compile jobs with 'Low' priority
+Submitted 275 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_Emissive_Color in PCD3D_SM5, Default, SM5 (DDC key hash: B9C85B7AAA1EA8AA28D7C633D6D7F6739B4F8366), compiling. 
+Submitted 16 shader compile jobs with 'Low' priority
+Missing cached shadermap for VertexColorMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 963CE01A4F50A754CD077C81077F481FB23D5D57), compiling. 
+Submitted 163 shader compile jobs with 'Low' priority
+Missing cached shadermap for WireframeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2847B57FAB8309829D946E78571260D33E273C2F), compiling. Is special engine material.
+Worker (6/13): shaders left to compile 1104
+Started 10 'Local' shader compile jobs with 'Low' priority
+Submitted 832 shader compile jobs with 'Low' priority
+Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+Initializing TcpMessaging bridge
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Source control is disabled
+Missing cached shadermap for SpeedTreeMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 88886E6AE0D0B1056629646E71087F96BCB31839), compiling. 
+Submitted 146 shader compile jobs with 'Low' priority
+Missing cached shadermap for SpeedTreeBillboardMaster in PCD3D_SM5, Default, SM5 (DDC key hash: E9D510A75CA9AC765DAEAC409BC983D07B03B098), compiling. 
+Submitted 108 shader compile jobs with 'Low' priority
+Missing cached shadermap for M_VolumeRenderSphereTracePP in PCD3D_SM5, Default, SM5 (DDC key hash: 6208551EC3238509E1CC08E0C0E78F4B3317B186), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Worker (4/13): shaders left to compile 2198
+Started 10 'Local' shader compile jobs with 'Low' priority
+Found projects:
+OIDN starting up
+UAndroidPermissionCallbackProxy::GetInstance
+No Audio Capture implementations found. Audio input will be silent.
+No Audio Capture implementations found. Audio input will be silent.
+Missing cached shadermap for M_XRController in PCD3D_SM5, Default, SM5 (DDC key hash: 9A88EED87C93305DA586145A367875D51CECD2AB), compiling. 
+Submitted 28 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_GoogleDaydream in PCD3D_SM5, Default, SM5 (DDC key hash: 479F13535583000C70476EDECE6EC92481BD975C), compiling. 
+Submitted 28 shader compile jobs with 'Low' priority
+Missing cached shadermap for MI_right_ValveIndex in PCD3D_SM5, Default, SM5 (DDC key hash: 71DF17B09CDBD4E820688F377488A338967042F9), compiling. 
+Submitted 28 shader compile jobs with 'Low' priority
+Loaded 0 collections in 0.001491 seconds
+Scanning file cache for directory 'E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Saved/Collections/' took 0.00s
+Scanning file cache for directory 'E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Content/Developers/angel/Collections/' took 0.00s
+Scanning file cache for directory 'E:/Documentos/Universidad/trabajos/Campo_tiro/Campo_tiro/Content/Collections/' took 0.00s
+Worker (3/13): shaders left to compile 2272
+Started 10 'Local' shader compile jobs with 'Low' priority
+Missing cached shadermap for HighResScreenshot in PCD3D_SM5, Default, SM5 (DDC key hash: 2527A446039AB0A4986FE90CEE01673B9BD051C5), compiling. 
+Submitted 24 shader compile jobs with 'Low' priority
+Missing cached shadermap for HighResScreenshotMask in PCD3D_SM5, Default, SM5 (DDC key hash: FE269991C46AB064D9F810B809678A11630418D7), compiling. 
+Submitted 24 shader compile jobs with 'Low' priority
+Missing cached shadermap for HighResScreenshotCaptureRegion in PCD3D_SM5, Default, SM5 (DDC key hash: C3C838C96F8149FCB91007E9DC8B4567A69C0E8A), compiling. 
+Submitted 18 shader compile jobs with 'Low' priority
+Int8Property FMTSJson::version is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+Int16Property FMTSJson::resolutionValue is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+BoolProperty FMTSJson::isExternal is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+Int8Property FMTSJson::meshVersion is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+BoolProperty FMTSJson::isCustom is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+BoolProperty FMTSJson::isModularAsset is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+Int8Property FLodList::variation is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+Int16Property FMeshList::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+Int16Property FComponents::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+BoolProperty FTextureSets::isUdim is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+BoolProperty FMeta::value is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+11 Uninitialized script struct members found including 0 object properties
+Initializing Engine...
+Worker (9/13): shaders left to compile 2328
+Started 10 'Local' shader compile jobs with 'Low' priority
+
+
+Script Stack (0 frames):
+
+FPlatformStackWalk::StackWalkAndDump -  0.277 s
+=== Handled ensure: ===
+
+Ensure condition failed: ((Result) >= 0) [File:D:/Build/++UE4/Sync/Engine/Plugins/Runtime/OpenXR/Source/OpenXRHMD/Private/OpenXRHMD.cpp] [Line: 1960]
+OpenXR call failed with result XR_ERROR_INITIALIZATION_FAILED
+Stack: 
+[Callstack] 0x00007ff8e0ffb01d UE4Editor-OpenXRHMD.dll!UnknownFunction []
+[Callstack] 0x00007ff8e0fe7edf UE4Editor-OpenXRHMD.dll!UnknownFunction []
+[Callstack] 0x00007ff8e0fd8c0e UE4Editor-OpenXRHMD.dll!UnknownFunction []
+[Callstack] 0x00007ff8f0786cfa UE4Editor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ff8f0780523 UE4Editor-Engine.dll!UnknownFunction []
+[Callstack] 0x00007ff8edd3df86 UE4Editor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ff8edd3d510 UE4Editor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ff8ee621401 UE4Editor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ff7f94a2ed9 UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff8ee5edb50 UE4Editor-UnrealEd.dll!UnknownFunction []
+[Callstack] 0x00007ff7f94c0e3b UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff7f94c10ba UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff7f94c40dd UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff7f94d5984 UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff7f94d853a UE4Editor.exe!UnknownFunction []
+[Callstack] 0x00007ff9a68b7034 KERNEL32.DLL!UnknownFunction []
+[Callstack] 0x00007ff9a7662651 ntdll.dll!UnknownFunction []
+
+               SubmitErrorReport -  0.000 s
